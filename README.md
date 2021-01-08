@@ -15,4 +15,4 @@ https://work.weixin.qq.com/api/doc/90000/90136/91770<br>
 根据配置文件，设置好邮箱相关参数即可<br>
 
 效果如下：
-![avatar](A13B9F836BB07C035DEF81663B104E0F.png）
+![avatar](https://github.com/QmF0c3UK/CvePush/blob/main/A13B9F836BB07C035DEF81663B104E0F.png）
